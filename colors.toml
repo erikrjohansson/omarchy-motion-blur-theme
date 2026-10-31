@@ -1,0 +1,41 @@
+# Motion Blur: the white wedge coupe streaking through rain-soaked neon.
+# Every colour comes from that one wallpaper. The surfaces are its near-black
+# night sky, the window edge the teal glow off the wet road, and the accent the
+# coral of the tail lights. Text is the cream of the car's paint.
+# The photo has no true blue: cyan and blue are sea blues drawn from the road's teal.
+mode = "dark"
+
+accent = "#e87b62"
+selection = "#2d514c"
+selection_foreground = "#e7e6d3"
+muted = "#627b6f"
+
+# Window edge: the dim teal of the wet road, rising to its lit glow when focused.
+hyprland_active_border = "#6a978d"
+hyprland_inactive_border = "#2d514c"
+
+background = "#121613"
+dark_background = "#0e1210"
+darker_background = "#0a0e0b"
+lighter_background = "#19221d"
+
+foreground = "#dad6c4"
+dark_foreground = "#c6bead"
+light_foreground = "#e7e6d3"
+bright_foreground = "#f5f4eb"
+
+red = "#d85241"
+orange = "#db894e"
+yellow = "#d5b166"
+green = "#63b392"
+cyan = "#6eb9cb"
+blue = "#5195c3"
+magenta = "#dc8097"
+brown = "#91623c"
+
+bright_red = "#ed8a73"
+bright_yellow = "#e4cd97"
+bright_green = "#98d2b7"
+bright_cyan = "#a1d4e1"
+bright_blue = "#8abde1"
+bright_magenta = "#efb4bb"
