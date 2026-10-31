@@ -34,6 +34,12 @@ omarchy theme remove motion-blur
 
 One **6688 × 3764** wallpaper.
 
+## Boot intro
+
+The wallpaper has a short boot intro: the scene opens as one long motion-blur smear and pulls back into the still photo. It plays on Omarchy 4.5 and later. Click it for the full-resolution video.
+
+<a href="backgrounds/intros/01-wedge.mp4"><img src="previews/intro.webp" width="800" alt="Motion Blur boot intro: the motion-blurred scene pulls back into the still wallpaper"></a>
+
 ## License
 
 [MIT](LICENSE)
