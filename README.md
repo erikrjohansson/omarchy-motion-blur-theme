@@ -29,6 +29,7 @@ omarchy theme remove motion-blur
 - Windows, menus and notifications on one near-black night surface, with cream text and a tail-light coral accent.
 - Terminal colors taken from the wallpaper: tail-light reds and oranges, street-light yellow and the teal of the wet road.
 - Yaru folder icons.
+- A boot screen in the theme's colors: pick it in the Omarchy menu under Appearance → Unlock.
 
 ## Wallpaper
 
@@ -42,4 +43,4 @@ The wallpaper has a short boot intro: the scene opens as one long motion-blur sm
 
 ## License
 
-[MIT](LICENSE)
+[MIT](LICENSE) · [Omarchy artwork attribution](THIRD_PARTY_NOTICES.md)
